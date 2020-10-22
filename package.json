@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "version": "1.0.0",
+  "name": "@evan/clamav",
+  "author": "evanwashere <evan@tsu.sh>",
+  "description": "ClamAV client for deno",
+
+  "main": "lib.js",
+  "module": "lib.js",
+  "files": ["lib.js", "README.md"],
+  "keywords": ["deno", "clamd", "clamav"],
+  "homepage": "https://github.com/evanwashere/clamav#readme",
+  "bugs": { "url": "https://github.com/evanwashere/clamav/issues" },
+  "repository": { "type": "git", "url": "git+https://github.com/evanwashere/clamav.git" }
+}
